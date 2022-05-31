@@ -1,0 +1,10 @@
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\bin\Debug\netcoreapp3.1\Booking.Domain.deps.json
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\bin\Debug\netcoreapp3.1\Booking.Domain.dll
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\bin\Debug\netcoreapp3.1\Booking.Domain.pdb
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.csproj.AssemblyReference.cache
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.AssemblyInfoInputs.cache
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.AssemblyInfo.cs
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.dll
+C:\Carmel\temp\MeetingRoomBookingSystem\Booking.Domain\obj\Debug\netcoreapp3.1\Booking.Domain.pdb

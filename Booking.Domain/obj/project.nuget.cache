@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZed2dpHMFYfHHuHOAcDJ4Cq50pz1ugiwf5+XG4X9h4QC8Lr3dXFPXKu8X6P+6f3wUyPI50Oi5sySRN2b/KmSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Carmel\\temp\\MeetingRoomBookingSystem\\Booking.Domain\\Booking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wk29\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
